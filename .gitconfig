@@ -1,0 +1,6 @@
+[user]
+        email = sseifert@redhotchilibots.com 
+	user = sdseifert
+
+[credential]
+        helper = store
